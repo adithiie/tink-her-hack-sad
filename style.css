@@ -1,19 +1,19 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Sixtyfour Convergence, kablammo;
     background-color: #f0f0f0;
     text-align: center;
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #1e2ad3;
     padding: 20px;
-    color: white;
+    color: rgb(10, 106, 58);
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #e652ab;
     border: none;
-    color: white;
+    color: rgb(218, 237, 12);
     padding: 15px 32px;
     font-size: 16px;
     cursor: pointer;
@@ -21,11 +21,11 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #e4864c;
 }
 
 footer {
     margin-top: 20px;
     font-size: 14px;
-    color: #888;
+    color: #9b2a5b;
 }
