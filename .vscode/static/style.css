@@ -1,14 +1,14 @@
 body {
     /*style.css code*/
     font-family: 'Times New Roman', Times, serif;
-    background-color: #f0f0f0;
+    background-color: #d24646;
     text-align: center;
 }
 
 header {
-    background-color: #1e2ad3;
+    background-color: #797b97;
     padding: 20px;
-    color: rgb(10, 106, 58);
+    /*color: rgb(10, 106, 58);*/
 }
 
 button {
