@@ -1,3 +1,6 @@
+
+
+//script.js code
 function checkAnswer(word) {
     let feedback = document.getElementById('feedback');
     if (word === 'happy') {
