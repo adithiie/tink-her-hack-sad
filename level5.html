@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Level 5: Public Speaking</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header>
+        <h2>Level 5: Public Speaking</h2>
+        <p>Record your response to the following topic:</p>
+        <p><strong>Topic:</strong> "Why is it important to learn new words every day?"</p>
+    </header>
+
+    <main>
+        <section class="game">
+            <div class="recording-container">
+                <button onclick="startRecording()">Start Recording</button>
+                <button onclick="stopRecording()" disabled>Stop Recording</button>
+                <p id="recording-status">Status: Not recording</p>
+            </div>
+
+            <div id="audio-player" style="display:none;">
+                <audio id="audio" controls></audio>
+            </div>
+
+            <button onclick="submitResponse()">Submit Response</button>
+            <p id="submission-status"></p>
+        </section>
+    </main>
+
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
