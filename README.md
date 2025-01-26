@@ -1,44 +1,45 @@
-# [WORD SNAP] 🎯
+# WORD SNAP 🎯
 
 
 ## Basic Details
-### Team Name: [SAD]
+### Team Name: SAD
 
 
 ### Team Members
-- Member 1: [Adithi] - [LBSITW]
-- Member 2: [Devika] - [LBSITW]
-- Member 3: [srivarshika] - [LBSITW]
+- Member 1: Adithi - LBSITW
+- Member 2: Devika - LBSITW
+- Member 3: srivarshika - LBSITW
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+We’ve created a website to help millennials connect with Gen Z, Gen Alpha, and Gen Beta by learning their slang and commonly used words. The platform features three interactive levels and daily challenges where users can discover five new words every day.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+The ridiculous problem we’re solving is bridging the generational communication gap. Millennials often struggle to understand the fast-evolving slang of Gen Z, Gen Alpha, and Gen Beta. Our website makes this process fun and engaging, helping them decode, learn, and confidently use modern lingo to stay relevant and connect better with younger generations.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+We’re solving it by creating an interactive website with three engaging levels: Match the Vibes, Oopsie Check, and Slang-Off, each designed to teach and test understanding of modern slang in a fun way. Additionally, we offer a Daily Challenges section, where users learn 5 fresh slang words every day, ensuring they stay updated and can seamlessly communicate with Gen Z, Gen Alpha, and beyond.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+HTML
+CSS
+JavaScript
+Google Fonts
+Keyframe Animations
+Modern Web Browser
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+laptop
+aspire A315-510P
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+VS code
 
 # Run
 [commands]
@@ -47,8 +48,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2
+main page of website
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
