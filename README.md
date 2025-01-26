@@ -53,9 +53,9 @@ main page of website
 
 https://github.com/adithiie/tink-her-hack-sad/blob/main/Screenshot%202025-01-26%20063541.png
 level 1
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
+https://github.com/adithiie/tink-her-hack-sad/blob/main/Screenshot%202025-01-26%20062342.png
+level 2
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
