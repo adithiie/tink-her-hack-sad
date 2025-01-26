@@ -51,9 +51,8 @@ For Software:
 https://github.com/adithiie/tink-her-hack-sad/blob/main/Screenshot%202025-01-26%20062342.png
 main page of website
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
+https://github.com/adithiie/tink-her-hack-sad/blob/main/Screenshot%202025-01-26%20063541.png
+level 1
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
