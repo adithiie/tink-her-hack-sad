@@ -135,8 +135,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+(https://github.com/adithiie/tink-her-hack-sad/blob/main/WhatsApp%20Video%202025-01-26%20at%2006.52.24_08594022.mp4)
+First shows the main/home page of the website next shows the pages containing cr
 
 # Additional Demos
 [Add any extra demo materials/links]
