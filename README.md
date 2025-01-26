@@ -11,7 +11,7 @@
 - Member 3: srivarshika - LBSITW
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+///C:/Users/sriva/.vscode/word%20snap/main.html
 
 ### Project Description
 We’ve created a website to help millennials connect with Gen Z, Gen Alpha, and Gen Beta by learning their slang and commonly used words. The platform features three interactive levels and daily challenges where users can discover five new words every day.
