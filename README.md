@@ -47,8 +47,8 @@ VS code
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot 2
+# Screenshots 
+https://github.com/adithiie/tink-her-hack-sad/blob/main/Screenshot%202025-01-26%20062342.png
 main page of website
 
 ![Screenshot2](Add screenshot 2 here with proper name)
