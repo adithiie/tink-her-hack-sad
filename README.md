@@ -42,10 +42,61 @@ For Software:
 VS code
 
 # Run
-[commands]
+clone the repository and run main.html
 
 ### Project Documentation
-For Software:
+For Software:Software Project Documentation
+Project Title:
+Word Snap: Learn Gen Z Slangs
+
+1. Problem Statement:
+Millennials and older generations often struggle to understand the slang used by Gen Z, Gen Alpha, and Gen Beta. This leads to communication gaps, especially in social and professional settings.
+
+Problem: Bridging the generational language divide.
+
+2. Objective:
+To create an interactive website that helps users learn Gen Z slang through engaging levels and daily challenges.
+
+3. Features:
+Three Levels:
+
+Match the Vibes: Pair slangs with their meanings.
+Oopsie Check: Spot slang usage mistakes.
+Slang-Off: Debate slang topics.
+Daily Challenges:
+
+Learn 5 new slang words every day.
+Responsive Design:
+
+Works seamlessly across devices.
+4. Tools and Technologies:
+Languages:
+
+HTML, CSS, JavaScript
+Frameworks/Libraries:
+
+Google Fonts 
+Development Tools:
+
+VS Code, Live Server 
+Hosting Platforms:
+
+GitHub Pages, Vercel 
+5 Implementation & Execution:
+Set Up:
+
+Create index.html, styles.css, and app.js.
+Link CSS and JS files to the HTML.
+6.Run Locally:
+
+ "Live Server" extension in VS Code 
+7. Future Scope:
+Add new slang words and levels.
+Include audio or video examples for better learning.
+Introduce a scoring system and leaderboards.
+8. Conclusion:
+Word Snap is a fun, educational tool to bridge generational gaps and help users stay updated with modern slang.
+
 
 # Screenshots 
 https://github.com/adithiie/tink-her-hack-sad/blob/main/Screenshot%202025-01-26%20062342.png
@@ -91,9 +142,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Same contributions
 
 ---
 Made with ❤️ at TinkerHub
