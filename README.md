@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# [WORD SNAP] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [SAD]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Adithi] - [LBSITW]
+- Member 2: [Devika] - [LBSITW]
+- Member 3: [srivarshika] - [LBSITW]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
